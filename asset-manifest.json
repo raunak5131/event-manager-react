@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/event-manager-react/static/css/main.c3b0dcca.css",
-    "main.js": "/event-manager-react/static/js/main.8f6b2877.js",
+    "main.css": "/event-manager-react/static/css/main.ddc04c91.css",
+    "main.js": "/event-manager-react/static/js/main.e0187143.js",
     "index.html": "/event-manager-react/index.html",
-    "main.c3b0dcca.css.map": "/event-manager-react/static/css/main.c3b0dcca.css.map",
-    "main.8f6b2877.js.map": "/event-manager-react/static/js/main.8f6b2877.js.map"
+    "main.ddc04c91.css.map": "/event-manager-react/static/css/main.ddc04c91.css.map",
+    "main.e0187143.js.map": "/event-manager-react/static/js/main.e0187143.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3b0dcca.css",
-    "static/js/main.8f6b2877.js"
+    "static/css/main.ddc04c91.css",
+    "static/js/main.e0187143.js"
   ]
 }
