@@ -16,13 +16,14 @@ This is a simple React-based Event Management System built as part of Assignment
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](https://user-images.githubusercontent.com/your_id/home.png)
+![Home 1](https://github.com/user-attachments/assets/e7efd379-dd76-4ad7-87b6-364756f91bde)
+![Home 2](https://github.com/user-attachments/assets/3b9299ad-dc66-4a46-9297-6038f06763d7)
 
 ### 📝 Register Page
-![Register](https://user-images.githubusercontent.com/your_id/register.png)
+![Register](https://github.com/user-attachments/assets/30fc1d3e-2767-4e9d-946d-6c27009c2609)
 
 ### 📅 My Events Page
-![My Events](https://user-images.githubusercontent.com/your_id/myevents.png)
+![My Events](https://github.com/user-attachments/assets/e4cd6e81-8310-4468-ae1b-f7f8a54b1c9b)
 
 
 ## 🔗 Live Demo
