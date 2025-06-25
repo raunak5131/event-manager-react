@@ -15,7 +15,15 @@ This is a simple React-based Event Management System built as part of Assignment
 
 ## 📸 Screenshots
 
-> _(Insert screenshots here — you can use Snipping Tool or press `Windows + Shift + S`, then paste them in GitHub's image uploader or drag them here.)_
+### 🏠 Home Page
+![Home](https://user-images.githubusercontent.com/your_id/home.png)
+
+### 📝 Register Page
+![Register](https://user-images.githubusercontent.com/your_id/register.png)
+
+### 📅 My Events Page
+![My Events](https://user-images.githubusercontent.com/your_id/myevents.png)
+
 
 ## 🔗 Live Demo
 
@@ -23,17 +31,20 @@ This is a simple React-based Event Management System built as part of Assignment
 
 ## 🛠️ Tech Stack
 
-- React (CRA)
+- React (with CRA)
 - React Router DOM
+- CSS (custom and responsive)
+- Framer Motion (for animations)
 - React Icons
-- Framer Motion
-- CSS
+- LocalStorage (for data persistence)
+- GitHub Pages (for deployment)
 
 ## 🧭 Usage
 
-1. Click on **Register** to register for an event.
-2. Navigate to **My Events** to view and manage your registrations.
-3. Enjoy smooth animations and UI responsiveness!
+1. Browse through the available events on the Home page.
+2. Click on “Register” to submit your name and email.
+3. Go to “My Events” to view all your registered entries.
+4. Enjoy the smooth UI with mobile-friendly design!
 
 ---
 

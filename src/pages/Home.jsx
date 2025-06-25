@@ -72,6 +72,10 @@ function Home() {
         )}
       </div>
 
+      <h2 style={{ textAlign: "center", fontSize: "2rem", marginTop: "10px", marginBottom: "10px" }}>
+  📅 Available Events
+</h2>
+
       {/* Event Cards Grid */}
       <div
         style={{

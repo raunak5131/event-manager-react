@@ -9,14 +9,24 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div
+      className="App"
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        minHeight: "100vh",
+      }}
+    >
       <Navbar />
 
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/register" element={<Register />} />
-        <Route path="/myevents" element={<MyEvents />} />
-      </Routes>
+      {/* Main content area should expand to fill space */}
+      <div style={{ flex: 1 }}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/register" element={<Register />} />
+          <Route path="/myevents" element={<MyEvents />} />
+        </Routes>
+      </div>
 
       <Footer />
     </div>
